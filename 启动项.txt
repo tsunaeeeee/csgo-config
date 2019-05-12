@@ -1,0 +1,1 @@
+-exec autoexec -novid -nojoy -freq 240 -tickrate 128  -refresh 240 -language english -high -processheap
